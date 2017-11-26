@@ -4,7 +4,6 @@ chocolateBars = [
 "kitkat",
 "skittles"
 ]
-thingtoadd="3 musketeers"
 function addElementToBeginningOfArray() {
-  chocolateBars.unshift(${thingtoadd})
+  chocolateBars.unshift("three musketeers")
 }
