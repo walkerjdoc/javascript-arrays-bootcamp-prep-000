@@ -8,6 +8,6 @@ chocolateBars = [
   1
 ]
 function addElementToBeginningOfArray() {
-  chocolateBars.unshift("three musketeers")
-  return(chocolateBars)
+  1.unshift("foo")
+  return(1)
 }
